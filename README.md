@@ -1,1 +1,1 @@
-# Anemia-Detection-Model
+# AnemiaDetectionModel
